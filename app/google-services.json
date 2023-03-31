@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "774351503587",
+    "project_id": "pedidolicuados",
+    "storage_bucket": "pedidolicuados.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774351503587:android:a8d101277902c45e9845d6",
+        "android_client_info": {
+          "package_name": "my.pedidolicuados.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "774351503587-9r3g6issquicfhq0kp1iuvsj7qduunq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjVBZhUQvkHW8MMZCoCnPRI0_ssdW3AMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "774351503587-9r3g6issquicfhq0kp1iuvsj7qduunq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
